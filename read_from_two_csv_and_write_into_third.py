@@ -1,9 +1,9 @@
 import csv
 
 
-with open('airtable-all.csv', mode='r') as f1:
-    with open('2018-2021 - Sheet1.csv', mode='r') as f2:
-        #f = open('2018-2021-updated.csv', 'w')
+with open('file1.csv', mode='r') as f1:
+    with open('file2.csv', mode='r') as f2:
+        #f = open('output.csv', 'w')
         reader1 = list(csv.reader(f1))
         reader2 = list(csv.reader(f2))
         print(len(reader1))
