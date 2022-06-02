@@ -11,3 +11,4 @@ I am going to explore some way to write it neatly into functions so its adaptabl
 
 1. Compare two Csv's with Lambda function and get all variants.
 2. Read from 2 csv's make comparison's and write new data into 3rd 
+3. Csv info script to know number of lines, columns and potentially other things
